@@ -1,16 +1,94 @@
-## Hi there 👋
+# 👋 Hi, I'm Debansh
 
-<!--
-**Dev6158/Dev6158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast  
+🐧 Linux & Systems Explorer  
+🧠 Engineering Student  
+🚀 Builder of security and blockchain projects  
 
-Here are some ideas to get you started:
+I enjoy understanding how systems work under the hood — from network traffic and operating systems to digital forensics and secure software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📚 Currently Learning
+
+- Cybersecurity fundamentals and ethical hacking
+- Digital forensics and incident investigation
+- Artificial Intelligence / Machine Learning
+- Data Science for security analytics
+- Linux internals and system security
+
+---
+
+# 🛠 Tools & Technologies
+
+### Security & Forensics
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Autopsy](https://img.shields.io/badge/Autopsy-black?style=for-the-badge)
+![Binwalk](https://img.shields.io/badge/Binwalk-grey?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-darkred?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge)
+![JohnTheRipper](https://img.shields.io/badge/JohnTheRipper-black?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-purple?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-green?style=for-the-badge)
+
+### Development
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+# 🚀 Projects
+
+### 🔐 BitVote
+A blockchain-based voting system designed to ensure transparency and tamper-proof election processes.
+
+**Key ideas**
+- Smart contract voting
+- Immutable vote storage
+- Transparent vote verification
+
+---
+
+### 🧹 SecureWipe
+A secure file deletion tool designed to permanently erase sensitive data and prevent forensic recovery.
+
+**Features**
+- Multi-pass overwrite
+- Secure deletion algorithms
+- Designed for sensitive data disposal
+
+---
+
+# 🧪 Security Practice
+
+- picoCTF challenges
+- Linux security labs
+- Network packet analysis
+- Focus on digital forensics and investigation techniques
+
+---
+
+# 🔍 Security Interests
+
+- Digital Forensics  
+- Malware Analysis  
+- Network Security  
+- Threat Detection  
+- Security Automation  
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev6158&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev6158&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect
+
+GitHub: https://github.com/Dev6158
