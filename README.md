@@ -73,9 +73,9 @@ A secure file deletion tool designed to permanently erase sensitive data and pre
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev6158&show_icons=true&theme=tokyonight)
+![Debansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev6158&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev6158&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev6158&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
