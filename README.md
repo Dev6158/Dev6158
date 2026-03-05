@@ -71,6 +71,14 @@ A secure file deletion tool designed to permanently erase sensitive data and pre
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev6158&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev6158&layout=compact&theme=tokyonight)
+
+---
+
 # 🔍 Security Interests
 
 - Digital Forensics  
