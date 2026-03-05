@@ -78,6 +78,7 @@ A secure file deletion tool designed to permanently erase sensitive data and pre
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev6158&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev6158&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev6158&theme=aura_dark&utcOffset=8)
+![](https://komarev.com/ghpvc/?username=Dev6158&color=blue)
 
 ---
 
