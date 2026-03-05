@@ -73,7 +73,12 @@ A secure file deletion tool designed to permanently erase sensitive data and pre
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dev6158?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev6158&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev6158&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev6158&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev6158&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev6158&theme=aura_dark&utcOffset=8)
+
 ---
 
 # 🔍 Security Interests
