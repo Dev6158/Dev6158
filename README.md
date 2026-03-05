@@ -80,12 +80,6 @@ A secure file deletion tool designed to permanently erase sensitive data and pre
 - Security Automation  
 
 ---
-## 📊 GitHub Stats
-
-![Debansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev6158&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev6158&layout=compact&theme=tokyonight&hide_border=true)
----
 
 # 📫 Connect
 
